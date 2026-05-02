@@ -1,0 +1,8 @@
+# Note 
+  only the final deploymental .py files are uploaded here as
+  
+  1. there are too many versions of multiple inputs are available
+  
+  2. for ease of reference and reduce confusions
+
+  each file has the particular time period you need to check eg: 1-min, 5-min, 15-min etc
