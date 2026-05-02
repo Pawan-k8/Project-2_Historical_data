@@ -5,4 +5,6 @@
   
   2. for ease of reference and reduce confusions
 
-  each file has the particular time period you need to check eg: 1-min, 5-min, 15-min etc
+ the file has the particular time period you need to check eg: 1-min, 5-min, 15-min etc before running 
+
+adjust it accordingly
