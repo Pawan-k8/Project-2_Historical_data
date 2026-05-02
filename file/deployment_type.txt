@@ -5,6 +5,8 @@
   
   2. for ease of reference and reduce confusions
 
+  3. the credentials are also needed for this script to run (check project 1 to build the credential.py file)
+
  the file has the particular time period you need to check eg: 1-min, 5-min, 15-min etc before running 
 
 adjust it accordingly
