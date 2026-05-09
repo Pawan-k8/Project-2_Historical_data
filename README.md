@@ -1,4 +1,4 @@
-# Project-2_Historical_data
+# Project_Algo-Historical_data
 historical data for trading stratergies and pattern recognition
 
 ## historical data download for pattern recognition and backtesting
